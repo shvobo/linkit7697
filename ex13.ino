@@ -13,10 +13,10 @@ int f; //風扇
 int w; //噴水
 int th = 25; //風扇自動開關溫度預設值
 char ss[3]; //土壤濕度文字格式
-char _lwifi_ssid[] = "lita";
-char _lwifi_pass[] = "0911027768";
+char _lwifi_ssid[] = "OAQ";
+char _lwifi_pass[] = "vicki933577";
 
-MCSDevice mcs("DXw243yd", "CfxiZLEs0UXcSie4");
+MCSDevice mcs("D205RuLX", "wxzIyGFtKMQGeq0A");
 MCSDisplayInteger temp("temp"); //溫度
 MCSDisplayInteger humid("humid"); //濕度
 MCSDisplayInteger soil("soil"); //土壤濕度
